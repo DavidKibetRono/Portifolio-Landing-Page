@@ -44,3 +44,39 @@
         color: yellow;
         text-decoration: none;
     }
+    
+    p {
+        font-size: 70px;
+        color: #ffffff;
+        margin-left: 250px;
+        margin-top: 250px;
+    }
+    
+    p>span {
+        color: peru;
+    }
+    
+    #download a {
+        font-size: 40px;
+        margin-left: 400px;
+        text-decoration: none;
+        color: cadetblue
+    }
+    
+    #download a:hover {
+        opacity: 0.6;
+        /* text-shadow: 2px 2px 5px red; */
+        box-shadow: 2px 2px 5px yellow;
+    }
+    
+    #picture {
+        float: right;
+        margin-top: -450px;
+        margin-right: 100px;
+        /* border-radius: 100px; */
+        width: 770px;
+        height: 810px;
+        opacity: 0.6;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px;
+    }
