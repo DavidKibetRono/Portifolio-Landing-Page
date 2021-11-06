@@ -217,6 +217,14 @@
         opacity: 1.0;
     }
     
+    iframe {
+        width: 70%;
+        margin-left: 0px;
+        margin-top: 20px;
+        height: 500px;
+        border: 1px solid #262E3F;
+    }
+    
     #projects img {
         float: right;
         width: 500px;
